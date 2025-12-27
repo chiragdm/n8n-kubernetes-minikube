@@ -10,6 +10,8 @@ Before you begin, ensure you have the following installed:
 - [kubectl](https://kubernetes.io/docs/tasks/tools/)
 - [Helm](https://helm.sh/docs/intro/install/) (optional, if using Helm charts)
 
+n8n is a free and open-source workflow automation tool that enables you to connect various apps and services with custom workflows. Learn more about it on the [official n8n website](https://n8n.io/).
+
 ## Steps to Deploy
 
 1. **Start Minikube**
